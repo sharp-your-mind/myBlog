@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>David&#39;s Blog</title>
+        <link>https://will-wzx.github.io/</link>
+        <description>Welcome to David&#39;s Blog~!</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 28 Nov 2021 16:41:22 &#43;0800</lastBuildDate>
+            <atom:link href="https://will-wzx.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title></title>
+    <link>https://will-wzx.github.io/first_blog/</link>
+    <pubDate>Sun, 28 Nov 2021 16:41:22 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://will-wzx.github.io/first_blog/</guid>
+    <description><![CDATA[卷首语 这篇没有什么内容，谨以此纪念我初入博客的今日，一直有开自己的博客的想法，但却一直犯懒，今天这个事终于敲定了，以后会时常更新，关于技术、关于爱情、关于读书、关于艺术、关于&hellip;&hellip;很多很多，杂七乱八都会写一写。
+其实自己开博客的目的很简单。其一，梳理一下自己的所思所想；其二，心里其实有很多的想法，没地儿没人说，干脆就把这当成自己“精神世界”吧。其三，就是总觉得一生这么短，总得留下点什么吧，身为一名工程师天天跟电脑打交道，那就把一些东西留在博客上吧。]]></description>
+</item></channel>
+</rss>
